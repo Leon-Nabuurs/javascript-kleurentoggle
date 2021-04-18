@@ -1,0 +1,50 @@
+.menuitem {
+    width: 35px;
+    height: 5px;
+    background-color: black;
+    margin: 6px 0;
+}
+#mymenu {
+    padding: 0;
+    background-color: grey;
+}
+.menu-item-li {
+    list-style: none;
+    line-height: 35px;
+    padding-left: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+
+.grey-background {
+    background-color: grey;
+}
+
+.red-background {
+    background-color: red;
+}
+.purple-background {
+    background-color: purple;
+}
+.orange-background {
+    background-color: orange;
+}
+.green-background {
+    background-color: green;
+}
+#mymenu {
+    display: none;
+}
+
+.visible-menu {
+    display: block !important;
+}
+
+#tekstkleur {
+    font-size: 20px;
+    position: absolute;
+    top: 400px;
+    text-align: center;
+    width: 100%;
+}
